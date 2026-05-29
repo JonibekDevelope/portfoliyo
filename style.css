@@ -217,5 +217,37 @@ header{
 
 .Info{
     border: 1px solid white;
+}
 
+.top small{
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: gray;
+}
+
+.top h1{
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    padding: 10px 20px;
+
+    color: white;
+}
+
+.top p{
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color: #a3a3a3;
+    margin: 0px auto;
+    padding-bottom: 20px;
+}
+
+.info-left{
+    
 }
